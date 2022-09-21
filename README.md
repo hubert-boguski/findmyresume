@@ -44,3 +44,4 @@ This folder is for more complex components, or features. Features are created by
 ### /pages
 
 This folder is for navigable components. A router automagically creates urls for anything in this folder. To create a page, combine features and ui components and put them in a component in this page. Typically state is managed in the feature, and any props that come from the server are passed through pages via the return object from getServerSideProps. Those props are then passed down into features as props, or put into a context.
+# findmyresume
