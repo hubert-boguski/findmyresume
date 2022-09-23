@@ -7,7 +7,7 @@ module.exports = {
   important: true,
   theme: {
     container: {
-      padding: '2rem',
+      center: true,
     },
     extend: {
       fontFamily: {
