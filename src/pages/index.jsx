@@ -20,7 +20,7 @@ export default function Homepage() {
         description: "Intereactive UX Portfolio Website Hubert Boguski",
       }}
     >
-      <div className="flex min-h-full justify-center">
+      <div className="flex items-center min-h-screen justify-center">
         <div className = "mt-6 max-w-md space-y-8 text-center font-medium text-5xl">
           Find My&nbsp;<span className="text-red-500">Resume</span>
         </div>
